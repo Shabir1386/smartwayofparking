@@ -1,1 +1,1 @@
-
+Canny Edge Detector purpose
